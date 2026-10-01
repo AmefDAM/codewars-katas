@@ -1,7 +1,8 @@
 # Multi Table for Numbers
 
 **Codewars:** 8 kyu  
-**Language:** Python
+**Original Language:** Scala
+**Current Language:** Python
 
 ## Description
 
