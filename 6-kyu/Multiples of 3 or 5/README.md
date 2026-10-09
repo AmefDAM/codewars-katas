@@ -12,4 +12,4 @@ For example, given `10`, the multiples are `3`, `5`, `6` and `9`, whose sum is `
 
 ## Solution
 
-[multiples_of_3_or_5.py](./multiples_of_3_or_5.py)
+[multiples_of_3_or_5.py](multiples_of_3_or_5.py)
