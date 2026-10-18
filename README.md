@@ -7,4 +7,4 @@ IES de Teis pico código y no me veis.
 
 ## Actual KYU
 
-_7k53t in awe 0-0_
+_6k235t in awe 0-0_
